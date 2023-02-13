@@ -22,14 +22,14 @@ title: maddies world
 email: rsiyq924@gmail.com
 author:
   name: Maddie Campbell
-  email: tim@maxvoltar.be #optional
+  email: uvacoder@proton.me #optional
   website: https://maxvoltar.com
 description: >- # this means to ignore newlines until "baseurl:"
   @maxvoltar's minimalistic, self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://maxvoltar.photo/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: maddie
-github_username: 22940dev
+twitter_username: VaLandscapes
+github_username: uvacoder
 instagram_username: maddie
 
 # Build settings
